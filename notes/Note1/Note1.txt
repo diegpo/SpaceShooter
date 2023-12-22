@@ -1,0 +1,2 @@
+DOC
+1 - Mover a nave do player para a esquerda
