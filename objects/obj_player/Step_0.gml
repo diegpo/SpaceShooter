@@ -1,6 +1,7 @@
 /// @description 
 
-//Movendo para a esquerda
+/*
+//Movimentação básica
 if (keyboard_check(ord("A"))){
 	x -= velocidade;
 }
@@ -19,3 +20,53 @@ if (keyboard_check(ord("W"))){
 if (keyboard_check(ord("S"))){
 	y += velocidade;
 }
+*/
+
+var up, down, left, right;
+
+up = keyboard_check(ord("W"));
+down = keyboard_check(ord("S"));
+left = keyboard_check(ord("A"));
+right = keyboard_check(ord("D"));
+
+//Debug
+//show_debug_message(up);
+
+/*
+y -= up * velocidade;
+y += down * velocidade;
+x -= left * velocidade;
+x += right * velocidade;
+*/
+
+//Debug
+//show_debug_message(down - up);
+
+y += (down - up) * velocidade;
+x += (right - left) * velocidade;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
