@@ -1,2 +1,10 @@
 DOC
-1 - Mover a nave do player para a esquerda
+1 - Criando o nosso player
+	1.1 - Importando a sprite do player - OK
+	1.2 - Criando o objeto do player e dando a sprite dele - OK
+	
+2 - Ajustando as dimensões da room e ajustando a view e viewport da room
+	2.1 - Criando uma viewport e camera para o jogo - OK
+	2.2 - Ajustando as dimensões para a view ser grande e o viewport menor - OK
+	
+3 - 
