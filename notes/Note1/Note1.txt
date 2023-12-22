@@ -9,4 +9,11 @@ DOC
 	2.1 - Criando uma viewport e camera para o jogo - OK
 	2.2 - Ajustando as dimensões para a view ser grande e o viewport menor - OK
 	
-3 - 
+3 - Atirando!
+	3.1 - Importando as sprites do tiro do player - OK
+	3.2 - Criando o objeto do tiro do player - OK
+	3.3 - Fazendo o tiro ir para cima - OK
+	3.4 - Fazendo o jogador ativar ao apertar espaço - OKK
+	3.5 - Dando um efeito legal para o tiro - OK
+		3.5.1 - Fazendo ele nascer grande e com o tempo ficar pequeno - OK
+	3.6 - Destruiir o tiro ao sair da tela - OK

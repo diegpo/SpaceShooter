@@ -22,12 +22,13 @@ if (keyboard_check(ord("S"))){
 }
 */
 
-var up, down, left, right;
+var up, down, left, right, fire;
 
 up = keyboard_check(ord("W"));
 down = keyboard_check(ord("S"));
 left = keyboard_check(ord("A"));
 right = keyboard_check(ord("D"));
+fire = keyboard_check_pressed(vk_space);
 
 //Debug
 //show_debug_message(up);
@@ -45,6 +46,11 @@ x += right * velocidade;
 y += (down - up) * velocidade;
 x += (right - left) * velocidade;
 
+if(fire){
+	//debug
+	//show_debug_message("piu");
+	instance_create_layer(x, y - sprite_height/3, "Tiros", obj_tiro_player);
+}
 
 
 
