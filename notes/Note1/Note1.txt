@@ -17,3 +17,8 @@ DOC
 	3.5 - Dando um efeito legal para o tiro - OK
 		3.5.1 - Fazendo ele nascer grande e com o tempo ficar pequeno - OK
 	3.6 - Destruiir o tiro ao sair da tela - OK
+	
+5 - Criando o primeiro inimigo
+	4.1 - Importando as sprites - OK
+	4.2 - Criando objeto - OK
+	4.3 - Fazendo ele ir para baixo - OK
