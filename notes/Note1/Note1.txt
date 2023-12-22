@@ -31,3 +31,4 @@ DOC
 	5.5 - Dando efeito no tiro - OK
 	
 (Criação de métodos)
+

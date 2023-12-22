@@ -22,13 +22,12 @@ if (keyboard_check(ord("S"))){
 }
 */
 
-var up, down, left, right, fire;
+var up, down, left, right;
 
 up = keyboard_check(ord("W"));
 down = keyboard_check(ord("S"));
 left = keyboard_check(ord("A"));
 right = keyboard_check(ord("D"));
-fire = keyboard_check_pressed(vk_space);
 
 //Debug
 //show_debug_message(up);
@@ -48,15 +47,16 @@ x += (right - left) * velocidade;
 
 
 
-//Converter o tiro em um método
+/*
+Converter o tiro em um método
 if(fire){
 	//debug
 	//show_debug_message("piu");
 	instance_create_layer(x, y - sprite_height/3, "Tiros", obj_tiro_player);
 }
+*/
 
-
-
+atirando();
 
 
 
