@@ -32,3 +32,10 @@ DOC
 	
 (Criação de métodos)
 
+6 - Fazendo o tiro do player acertar o inimigo
+	6.1 - Se destruir ao acertar o inimigo - OK
+	6.2 - Criar o impacto do tiro do player - OK
+	6.3 - Fazendo o impacto do tiro desaparecer no final da animação - OK
+	6.4 - Fazer o tiro não criar o impacto quando ele sair da room - Ok
+	
+7 - Fazendo o tiro do inimigo acertar o player e ser destruído
