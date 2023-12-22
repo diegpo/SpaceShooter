@@ -46,6 +46,9 @@ x += right * velocidade;
 y += (down - up) * velocidade;
 x += (right - left) * velocidade;
 
+
+
+//Converter o tiro em um método
 if(fire){
 	//debug
 	//show_debug_message("piu");

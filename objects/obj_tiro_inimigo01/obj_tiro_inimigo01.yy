@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_inimigo01",
-    "path": "sprites/spr_inimigo01/spr_inimigo01.yy",
+    "name": "spr_tiro_inimigo01",
+    "path": "sprites/spr_tiro_inimigo01/spr_tiro_inimigo01.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Inimigos.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_inimigo01",
+  "name": "obj_tiro_inimigo01",
   "tags": [],
   "resourceType": "GMObject",
 }
