@@ -51,6 +51,21 @@ DOC
 		
 9 - Pequenos ajustes parte 1
 	9.1 - Fazendo o inimigo ser destruido ao sair da tela - OK
+	9.2 - Melhorado o efeito do tiro - OK
+	9.3 - Efeitos especiais do tiro
+		9.3.1 - Criar a sprite do brilho - OK
+		9.3.2 - Criar o draw event - OK
+		9.3.3 - Se desenhar - OK
+		9.3.4 - Desenhar o brilho - OK
+		9.3.5 - Alterar como a gpu processa a mistura de imagens - OK
+		9.3.6 - Criar a variável cores, para ele mudar de cor automaticamente - OK
+		9.3.7 - Usar o lerp para diminuir o tamaho - OK
+	9.4 - Deixando as explosoes mais bonitas
+		9.4.1 - Criar o draw event - OK
+		9.4.2 - Se desenhar - OK
+		9.4.3 - Me desenhar um pouco maior (XSCALE >) - OK
+		9.4.4 - Alterar processamento na GPU - OK
+		9.4.5 - Criar a variável de cor - OK
 
 10 - Criando o background do nosso jogo
 	10.1 - Importando background - OK

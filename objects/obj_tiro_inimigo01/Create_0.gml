@@ -3,7 +3,10 @@
 
 vspeed = 6;
 
-image_xscale = 2;
-image_yscale = 2;
+image_xscale = 10;
+image_yscale = 4;
 
-alarm[0] = 2;
+//Vai utilizar o lerp no STEP EVENT
+//alarm[0] = 2;
+
+cores = choose(c_yellow, c_fuchsia, c_red, c_maroon);
