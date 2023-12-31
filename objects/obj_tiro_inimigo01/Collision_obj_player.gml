@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-//debug
-//show_message("kk");
+//Se destruindo
+instance_destroy();

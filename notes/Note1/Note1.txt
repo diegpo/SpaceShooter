@@ -39,3 +39,7 @@ DOC
 	6.4 - Fazer o tiro não criar o impacto quando ele sair da room - Ok
 	
 7 - Fazendo o tiro do inimigo acertar o player e ser destruído
+	7.1 - Destruindo o tiro do inimigo quando ele sair da room - OK
+	
+8 - Destruido o inimigo quando ele levar o tiro
+	8.1 - Fazer o tiro do player, também destruir o inimigo que colidir com ele - 
