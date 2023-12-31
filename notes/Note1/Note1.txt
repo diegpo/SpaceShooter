@@ -53,3 +53,5 @@ DOC
 	9.1 - Fazendo o inimigo ser destruido ao sair da tela - OK
 
 10 - Criando o background do nosso jogo
+	10.1 - Importando background - OK
+	10.2 - Melhorando background - OK
