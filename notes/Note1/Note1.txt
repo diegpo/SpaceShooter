@@ -49,3 +49,7 @@ DOC
 		8.2.3 - Fazer o inimigo instanciar a explosão ao morrer - OK
 		8.2.4 - Fazer a explosão se destruir nno final da animação - OK
 		
+9 - Pequenos ajustes parte 1
+	9.1 - Fazendo o inimigo ser destruido ao sair da tela - OK
+
+10 - Criando o background do nosso jogo
