@@ -81,7 +81,8 @@ DOC
 			11.4.1.2 - Falando se estou na direita - OK
 	11.5 - Fazer ele mudar de direção se ele já passou 1/3 da tela - OK
 	11.6 - Que ele faça isso apenas 1 vez - OK
-	11.7 - Fazer o inimigo criar o próprio tiro - 
+	11.7 - Fazer o inimigo criar o próprio tiro
+		11.7.1 - Criar a função atirando do inimigo02
 	
 12 - Criando o segundo tiro do inimigo
 	12.1 - Importando a sprite - OK
