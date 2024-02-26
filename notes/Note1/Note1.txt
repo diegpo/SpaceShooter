@@ -88,3 +88,5 @@ DOC
 	12.1 - Importando a sprite - OK
 	12.2 - Criando o objeto - OK
 	12.3 - Fazendo ele ser filho do tiro 1 - OK
+	
+	----- RETOMANDO ------
